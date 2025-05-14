@@ -1,0 +1,8 @@
+openai
+langchain
+faiss-cpu
+tiktoken
+langchain-community
+pandas
+sqlite3  # included with Python, but good for clarity
+
